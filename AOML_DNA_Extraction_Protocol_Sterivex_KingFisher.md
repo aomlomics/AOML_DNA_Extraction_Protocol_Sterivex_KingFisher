@@ -99,7 +99,8 @@ nucl_acid_ext_method_additional: not applicable
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2024-06-26 | Initial release |
-| 1.1.0 | 2024-11-16 | Addition of FAIR eDNA terms in YAML frontmatter |
+| 1.1.0 | 2024-11-16 | Addition of FAIR eDNA terms in YAML front matter |
+| 1.1.1 | 2025-12-15 | Updated YAML front matter |
 
 ### Acronyms and Abbreviations
 
