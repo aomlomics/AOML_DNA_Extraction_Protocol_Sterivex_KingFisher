@@ -73,7 +73,7 @@ nucl_acid_ext_method_additional: not applicable
 - External Protocols: Protcols from manufacturers or other groups. 
 - Include the link to each protocol.
 - Include the version number (internal) or access date (external) of the protocol when it was accessed.
-- 
+
 #### Internal Protocols
 
 | PROTOCOL NAME | LINK | VERSION | RELEASE DATE |
