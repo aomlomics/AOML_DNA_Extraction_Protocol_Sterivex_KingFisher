@@ -78,11 +78,8 @@ nucl_acid_ext_method_additional: not applicable
 
 | PROTOCOL NAME | LINK | VERSION | RELEASE DATE |
 | ------------- | ------------ | ------------ | ---------- |
-| NOAA/AOML Water Sampling Protocol using Sterivex with Zirconia Beads  | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_sampling_sterivex_beads.md> | 1.2.0 | 2025-01-08 |
-| NOAA/AOML PCR Protocol 12S rRNA V5-V6 (MiFish) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu12sv5v6_mifish.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML PCR Protocol 16S rRNA V4-V5 (EMP) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu16sv4v5_emp.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML PCR Protocol 18S rRNA V9 (EMP) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu18sv9_emp.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML Metagenome Library Prep Protocol (Illumina DNA Prep) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_libprep_metag_illumina.md> | 1.1.0 | 2024-11-16 |
+| AOML 'Omics Protocols | https://github.com/aomlomics/protocols | not applicable | ongoing |
+| NOAA 'Omics Metabarcoding Assays | https://github.com/NOAA-Omics/noaa-omics-metabarcoding-assays | not applicable | ongoing |
 
 #### External Protocols
 
